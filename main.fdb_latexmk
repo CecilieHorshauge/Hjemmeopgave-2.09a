@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1681545691 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.09a/main.tex" "main.pdf" "main" 1681545693 0
-  "Sections/opg1.tex" 1681497442 1270 d424d8fd25f976291f2903cb97659813 ""
-  "Sections/opg2.tex" 1680528615 1712 5548b4ef33d29f676f7344fbbea79fec ""
+["pdflatex"] 1681548024 "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.09a/main.tex" "main.pdf" "main" 1681548026 0
+  "Sections/opg1.tex" 1681547905 1268 e348272b80f662c76ec1a5ede41a7835 ""
+  "Sections/opg2.tex" 1681547927 1711 df2ab3f6212a91df2a3abeb8120a24dd ""
   "Sections/opg3.tex" 1680515140 798 a74c0002de502ca8cd2d9c11edf86f3d ""
-  "Sections/opg4.tex" 1681459954 1359 d0bccb3590bf0bcfca00dcc49b5dbdde ""
-  "Sections/opg5.tex" 1680520352 751 471756fe63b658d6b7a2e9fa502baab9 ""
-  "Sections/opg6.tex" 1680527009 1665 3306df0e8606e8e0e6e518f6c08e68f3 ""
+  "Sections/opg4.tex" 1681547947 1358 3ac8e2b3d7223562f9335842a72af146 ""
+  "Sections/opg5.tex" 1681547980 748 77ed8a83d8119bff792d2b7207e14a55 ""
+  "Sections/opg6.tex" 1681548022 1661 dcd9690d98df9be88cb34ae0b97281ae ""
   "c:/Users/cecih/Desktop/VS Code/Hjemmeopgave 2.09a/main.tex" 1681545688 912 b02d4166fb90db4dac55687f71dc93e0 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1679576667 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1679574768 1004 54797486969f23fa377b128694d548df ""
@@ -139,7 +139,7 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1679583036 7883456 8b500e31a490f898c32bf97277dd79be ""
   "c:/texlive/2023/texmf.cnf" 1679582833 713 e69b156964470283e0530f5060668171 ""
   "macro.sty" 1680101264 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.aux" 1681545693 131 2d36297fd1613f8eda276acb1342b4a4 "pdflatex"
+  "main.aux" 1681548025 131 2d36297fd1613f8eda276acb1342b4a4 "pdflatex"
   "main.tex" 1681545688 912 b02d4166fb90db4dac55687f71dc93e0 ""
   (generated)
   "main.aux"
