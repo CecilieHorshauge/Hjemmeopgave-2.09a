@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[danish]{babel} %Latex genereret indhold bliver på dansk. eks: table of contents -> Indholdsfortegnelse
+\usepackage{fancyhdr}%sidehoved + sidefod
+\usepackage{graphicx} %Billeder
+\usepackage{amsmath,amssymb,gensymb,amsfonts,mathrsfs,latexsym} %Matematik-ting
+\usepackage{ dsfont }
+\usepackage{macro} %Egne skabeloner
+\usepackage{array} %skema
+\usepackage{ wasysym }
+\usepackage{tcolorbox}
+\usepackage{xcolor}
+\usepackage[left=3 cm,right=3cm,top=3.5cm]{geometry}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{19. april 2022}
+\lhead{Matematik aflevering}
+\lfoot{Cecilie Horshauge 2.x}
+\rfoot{Side \thepage}
+
+\begin{document}
+    \pagenumbering{arabic}
+    \input{Sections/opg1}
+    \input{Sections/opg2}
+    \input{Sections/opg3}
+    \input{Sections/opg4}
+    \input{Sections/opg5}
+    \input{Sections/opg6}
+\end{document}
